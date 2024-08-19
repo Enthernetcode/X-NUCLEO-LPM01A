@@ -42,19 +42,15 @@ Common issues you may encounter during power optimization are discussed, along w
 ### Running the Tutorial
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/DevHeads/STM32-Power-Optimization-Tutorial.git
+    git clone https://github.com/DevHeadsCommunity/Beginners-guide/X-NUCLEO-LPM01A
     ```
 2. Navigate to the project directory.
     ```bash
-    cd STM32-Power-Optimization-Tutorial
-    ```
-3. Compile the `main.c` file.
-    ```bash
-    gcc main.c -o tutorial
+    cd X-NUCLEO-LPM01A
     ```
 4. Run the tutorial.
     ```bash
-    ./tutorial
+    ./start
     ```
 
 ## Contributing

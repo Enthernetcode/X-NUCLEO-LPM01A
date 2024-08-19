@@ -64,4 +64,4 @@ Special thanks to the **DevHeads** team for their dedication to making embedded 
 
 ---
 
-**DevHeads** - [Beginners-guide](https://devheads.org/beginners-guide)
+**DevHeads** - [Beginners-guide](https://github.com/DevHeadsCommunity/Beginners-guide)
